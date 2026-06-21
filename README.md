@@ -79,30 +79,25 @@ This project implements an **agentic AI system** that:
 * Dynamically selects tools based on context
 * Ensures reliability using **validation and retries**
 * Learns from feedback using **memory and reward signals**
-
----
-
 ##  Key Highlights
 
 * Combines **LLMs + RAG + Agents + Learning**
 * Designed for **real-world healthcare automation**
 * Focus on **accuracy, safety, and explainability**
 
----
 
 ##  Disclaimer
 
 This system generates draft clinical summaries and must be reviewed by a qualified healthcare professional.
 
----
 
 ##  Author
 
 Harsh Kumar Gaurav
-MSc Data Science
+AI/ML Data Science
 
----
 
-## ⭐ If you like this project
+
+##  If you like this project
 
 Give it a star and share!
